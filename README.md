@@ -1,4 +1,4 @@
-# <img align="left" alt="cat" width="40px" src="./img/cat.svg"/> Hi there
+# <h1><img align="left" alt="cat" width="40px" src="./img/cat.svg"/> Hi there</h1>
 
 My name is Nikita Pomazkin!
 <br />
@@ -6,7 +6,9 @@ I am Web Developer with a year of work experience and around two years of hands-
 
 ---
 
-## <img align="left" alt="tools" width="40px" src="./img/tools.svg"/> Languages and Tools
+## <h2><img align="left" alt="tools" width="40px" src="./img/tools.svg"/> Languages and Tools</h2>
+
+<br />
 <p>
 <img align="left" alt="html logo" width="25px" src="./img/html.svg"/>
 HTML5, BEM
@@ -16,7 +18,7 @@ HTML5, BEM
 <p>
 <img align="left" alt="css logo" width="25px" src="./img/css.svg"/>
 CSS3, SASS, Bootstrap
-  </p>
+</p>
 <br />
 
 <p>
@@ -29,11 +31,10 @@ JavaScript, React, Vue, TypeScript
 <img align="left" alt="other" width="25px" src="./img/programming.svg"/>
 Webpack, Gulp
 </p>
-<br />
 
 ---
 
-## <img align="left" alt="contacts" width="40px" src="./img/contacts.svg"/> My Contacts
+## <h2><img align="left" alt="contacts" width="40px" src="./img/contacts.svg"/> My Contacts</h2>
 <a href="mailto:nikitapomazkin@gmail.com">
   <img align="left" alt="telegram logo" width="30px" src="./img/email.svg"/>
 </a>
