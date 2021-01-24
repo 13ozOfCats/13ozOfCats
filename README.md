@@ -6,7 +6,7 @@ I am Web Developer with a year of work experience and around two years of hands-
 
 ---
 
-## <h2><img align="left" alt="tools" width="40px" src="./img/tools.svg"/> Languages and Tools</h2>
+# <h1><img align="left" alt="tools" width="40px" src="./img/tools.svg"/> Languages and Tools</h1>
 
 <br />
 <p>
@@ -34,7 +34,7 @@ Webpack, Gulp
 
 ---
 
-## <h2><img align="left" alt="contacts" width="40px" src="./img/contacts.svg"/> My Contacts</h2>
+# <h1><img align="left" alt="contacts" width="40px" src="./img/contacts.svg"/> My Contacts</h1>
 <a href="mailto:nikitapomazkin@gmail.com">
   <img align="left" alt="telegram logo" width="30px" src="./img/email.svg"/>
 </a>
