@@ -4,8 +4,6 @@ My name is Nikita Pomazkin!
 <br />
 I am Web Developer with a year of work experience and around two years of hands-on programming.
 
----
-
 # <h1><img align="left" alt="tools" width="40px" src="./img/tools.svg"/> Languages and Tools</h1>
 
 <br />
@@ -31,8 +29,6 @@ JavaScript, React, Vue, TypeScript
 <img align="left" alt="other" width="25px" src="./img/programming.svg"/>
 Webpack, Gulp
 </p>
-
----
 
 # <h1><img align="left" alt="contacts" width="40px" src="./img/contacts.svg"/> My Contacts</h1>
 <a href="mailto:nikitapomazkin@gmail.com">
