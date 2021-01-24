@@ -6,17 +6,21 @@ I am Web Developer with a year of work experience and around two years of hands-
 
 ## <img align="left" alt="cat" width="35px" src="./img/tools.svg"/> Languages and Tools
 
-<img align="left" alt="telegram logo" width="30px" src="./img/css.svg"/><img align="left" alt="telegram logo" width="30px" src="./img/html.svg"/>
+<img align="left" alt="html logo" width="20px" src="./img/html.svg"/>
+HTML5, BEM
 <br />
-HTML, CSS, SASS
 
-<img align="left" alt="telegram logo" width="30px" src="./img/js.svg"/>
+<img align="left" alt="css logo" width="20px" src="./img/css.svg"/>
+CSS3, SASS, Bootstrap
 <br />
+
+<img align="left" alt="js logo" width="20px" src="./img/js.svg"/>
 JavaScript, jQuery, React, Vue, TypeScript
-
-<img align="left" alt="cat" width="35px" src="./img/programming.svg"/>
 <br />
+
+<img align="left" alt="" width="20px" src="./img/programming.svg"/>
 Webpack, Gulp
+<br />
 
 
 ## <img align="left" alt="cat" width="35px" src="./img/contacts.svg"/> My Contacts
