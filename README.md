@@ -4,24 +4,34 @@ My name is Nikita Pomazkin!
 <br />
 I am Web Developer with a year of work experience and around two years of hands-on programming.
 
+---
+
 ## <img align="left" alt="cat" width="35px" src="./img/tools.svg"/> Languages and Tools
-
-<img align="left" alt="html logo" width="20px" src="./img/html.svg"/>
+<p>
+<img align="left" alt="html logo" width="25px" src="./img/html.svg"/>
 HTML5, BEM
+</p>
 <br />
 
-<img align="left" alt="css logo" width="20px" src="./img/css.svg"/>
+<p>
+<img align="left" alt="css logo" width="25px" src="./img/css.svg"/>
 CSS3, SASS, Bootstrap
+  </p>
 <br />
 
-<img align="left" alt="js logo" width="20px" src="./img/js.svg"/>
-JavaScript, jQuery, React, Vue, TypeScript
+<p>
+<img align="left" alt="js logo" width="25px" src="./img/js.svg"/>
+JavaScript, React, Vue, TypeScript
+</p>
 <br />
 
-<img align="left" alt="" width="20px" src="./img/programming.svg"/>
+<p>
+<img align="left" alt="other" width="25px" src="./img/programming.svg"/>
 Webpack, Gulp
+</p>
 <br />
 
+---
 
 ## <img align="left" alt="cat" width="35px" src="./img/contacts.svg"/> My Contacts
 <a href="mailto:nikitapomazkin@gmail.com">
