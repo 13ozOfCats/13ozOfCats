@@ -34,7 +34,7 @@ Webpack, Gulp
 <a href="mailto:nikitapomazkin@gmail.com">
   <img align="left" alt="telegram logo" width="30px" src="./img/email.svg"/>
 </a>
-<a href="https://t.me/thirteenozofcats">
+<a href="https://t.me/onecupofcats">
   <img align="left" alt="telegram logo" width="30px" src="./img/telegram.svg"/>
 </a>
 <a href="https://twitter.com/13ozOfCats">
